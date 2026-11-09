@@ -6,6 +6,6 @@
   "author": "Nagatani",
   "license": "WTFPL",
   "dependencies": {
-    "toml": "^2.3.3"
+    "toml": "^5.0.1"
   }
 }
